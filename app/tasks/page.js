@@ -1,4 +1,3 @@
-import Form from "../components/form";
 import Github from "../components/github";
 import SmallLogo from "../components/logo-small";
 import AnimatedComponent from "../components/animated";
